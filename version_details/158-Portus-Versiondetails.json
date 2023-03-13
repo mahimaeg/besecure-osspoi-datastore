@@ -1,25 +1,26 @@
 [
     {
-        "version": "6.2.0",
-        "release_date": "11-May-2022",
-        "criticality_score": "Not Available",
-        "scorecard": "Not Available",
+        "version": "2.4.3",
+        "release_date": "19-Mar-2019",
+        "criticality_score": "0.35058",
+        "scorecard": "4.5",
         "cve_details": 
         [
+            
             {
-                "Year": 2021,
+                "Year": 2018,
                 "No_of_Vulnerabilities": 1,
                 "DoS": "",
                 "Code_Execution": "",
                 "Overflow": "",
                 "Memory_Corruption": "",
                 "Sql_Injection": "",
-                "XSS": 1,
+                "XSS": "",
                 "Directory_Traversal": "",
                 "Http_Response_Splitting": "",
                 "Bypass_something": "",
                 "Gain_Information": "",
-                "Gain_Privileges": 1,
+                "Gain_Privileges": "",
                 "CSRF": "",
                 "File_Inclusion": "",
                 "No_of_exploits": ""
@@ -32,12 +33,12 @@
                 "Overflow": "",
                 "Memory_Corruption": "",
                 "Sql_Injection": "",
-                "XSS": 1,
+                "XSS": "",
                 "Directory_Traversal": "",
                 "Http_Response_Splitting": "",
                 "Bypass_something": "",
                 "Gain_Information": "",
-                "Gain_Privileges": 1,
+                "Gain_Privileges": "",
                 "CSRF": "",
                 "File_Inclusion": "",
                 "No_of_exploits": ""
